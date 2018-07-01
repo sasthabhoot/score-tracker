@@ -3,7 +3,7 @@ import urllib.request
 import time
 import matplotlib.pyplot as plt
 
-crickbuzz = input('Copy and paste the crickbuzz score page url here: ')
+crickbuzz = input('Copy and paste the cricbuzz score page url here: ')
 print("")
 max_limit = str(input('Limit the over (eg. 16.2): '))
 print("")
