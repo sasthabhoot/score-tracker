@@ -4,6 +4,7 @@ tracking cricket score by scraping crickbuzz using BeautifulSoup4
 # Usage
 
 λ python tracker.py
+
 Copy and paste the url of the game you want to track from cricbuzz manually ....
 
 Enter the number of overs till which you want to track the score ...<eg. 16.4 or 20.0>...
