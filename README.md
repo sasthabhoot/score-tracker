@@ -1,5 +1,5 @@
 # score-tracker
-tracking cricket score by scraping crickbuzz using BeautifulSoup4
+tracking cricket score by scraping cricbuzz using BeautifulSoup4
 
 # Usage
 
